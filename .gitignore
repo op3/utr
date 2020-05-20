@@ -45,6 +45,7 @@ output/*
 
 # Text files
 *.txt
+!CMakeLists.txt
 
 # VRML visualization output
 *.wrl
