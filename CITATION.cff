@@ -1,0 +1,23 @@
+cff-version: 1.2.0
+title: "utr"
+message: "If you use this software, please cite it using the metadata from this file."
+type: software
+authors:
+  - given-names: "Udo"
+    family-names: "Friman-Gayer"
+    affiliation: "Technische Universität Darmstadt, Department of Physics, Institut für Kernphysik"
+    orcid: "https://orcid.org/0000-0003-2590-5052"
+  - given-names: "Jörn"
+    family-names: "Kleemann"
+    email: "jkleemann@ikp.tu-darmstadt.de"
+    affiliation: "Technische Universität Darmstadt, Department of Physics, Institut für Kernphysik"
+    orcid: "https://orcid.org/0000-0003-2596-3762"
+  - given-names: "Oliver"
+    family-names: "Papst"
+    email: "opapst@ikp.tu-darmstadt.de"
+    affiliation: "Technische Universität Darmstadt, Department of Physics, Institut für Kernphysik"
+    orcid: "https://orcid.org/0000-0002-1037-4183"
+doi: 10.5281/zenodo.3430153
+repository-code: "https://github.com/u-eff-gee/utr"
+abstract: "GEANT4 simulation of the Upper Target Room (UTR) at the HIγS facility"
+license: GPL-3.0-or-later
